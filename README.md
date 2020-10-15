@@ -8,7 +8,7 @@ This can trivially be modified to call other editors or functions, etc.
 ## Setup
 - Clone this repo or download it
 - Upload it to Chrome as an unpacked extension
-- In com.rohan.emacsedit.json, define the path option to be the full path where you want to store the native executable.
+- In `com.rohan.emacsedit.json`, define the path option to be the full path where you want to store the native executable.
 - Run `python install.py`
 
 ## Credits
