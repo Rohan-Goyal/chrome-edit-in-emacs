@@ -10,7 +10,6 @@ This can trivially be modified to call other editors or functions, etc.
 - Upload it to Chrome as an unpacked extension
 - In com.rohan.emacsedit.json, define the path option to be the full path where you want to store the native executable.
 - Run `python install.py`
-- To uninstall, run `python uninstall.py`
 
 ## Credits
 - Spacemacs logo taken from https://github.com/syl20bnr/spacemacs
